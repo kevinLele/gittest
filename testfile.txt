@@ -1,2 +1,2 @@
 ²âÊÔÌí¼ÓÎÄ¼ş
-²âÊÔ
+²âÊÔgit remote add origin git@github.com:kevinLele/gittest.git
